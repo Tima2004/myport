@@ -18,6 +18,7 @@
                 <ul>Surname: Beishenbekov</ul> 
                 <ul>Birth Date: 24.08.04</ul> 
                 <ul>Status: Student</ul> 
+                <ul>Phone number: 0771617440</ul> 
             </li>
         </div>
         <div class="photo">
